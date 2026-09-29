@@ -5,6 +5,7 @@ function App() {
       <p>Hello Docker & GitHub Actions!</p>
       <h2>Version 1.0</h2>
     </div>
-  )
+  );
+}
 
 export default App;
